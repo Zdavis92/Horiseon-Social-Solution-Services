@@ -1,6 +1,6 @@
 # Horiseon-Social-Solution-Services
 
-## This is HTML for Horiseon Social Solution Services landing page. Sytlied with CSS. Now containing semantic HTML elemants and is fully functional.
+## This is HTML for Horiseon Social Solution Services landing page. Stylied with CSS. Now containing semantic HTML elemants and is fully functional.
 
 ### ![Horiseon site screenshot 1](https://github.com/Zdavis92/Horiseon-Social-Solution-Services/blob/main/assets/images/Horiseon%20site%20screenshot%201.png)
 
